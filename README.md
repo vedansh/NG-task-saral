@@ -1,2 +1,2 @@
-# NG-crud-with-api
+# NG-crud-with-db
 Node basic crud setup(saral-clone)
